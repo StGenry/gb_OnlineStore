@@ -1,0 +1,72 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "name": "MANGO PEOPLE T-SHIRT",
+      "color": "Red",
+      "size": "XLL",
+      "price": 150
+    },
+    {
+      "id": 2,
+      "name": "JANGO PEOPLE T-SHIRT",
+      "color": "Blue",
+      "size": "XL",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "name": "BINGO PEOPLE T-SHIRT",
+      "color": "Red",
+      "size": "L",
+      "price": 200
+    },
+    {
+      "id": 4,
+      "name": "BONGO PEOPLE T-SHIRT",
+      "color": "Green",
+      "size": "M",
+      "price": 300
+    },
+    {
+      "id": 5,
+      "name": "BINGO PEOPLE T-SHIRT",
+      "color": "Red",
+      "size": "XXXL",
+      "price": 200
+    },
+    {
+      "id": 6,
+      "name": "BINGO PEOPLE T-SHIRT",
+      "color": "Red",
+      "size": "XS",
+      "price": 200
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "MANGO PEOPLE T-SHIRT",
+      "color": "Red",
+      "size": "XLL",
+      "price": 150,
+      "quantity": "2"
+    },
+    {
+      "id": 2,
+      "name": "JANGO PEOPLE T-SHIRT",
+      "color": "Blue",
+      "size": "XL",
+      "price": 100,
+      "quantity": "5"
+    },
+    {
+      "id": 3,
+      "name": "BINGO PEOPLE T-SHIRT",
+      "color": "Red",
+      "size": "L",
+      "price": 200,
+      "quantity": "5"
+    }
+  ]
+}
